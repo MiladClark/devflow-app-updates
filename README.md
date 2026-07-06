@@ -8,6 +8,7 @@ Binaries are published as **GitHub Releases** (not committed to this repo). The 
 
 | Version | Date | SHA256 | Download |
 |---------|------|--------|----------|
+| 0.1.4 | 2026-07-06 | `bda9754075c68c20…` | [zip](https://github.com/MiladClark/devflow-app-updates/releases/download/v0.1.4/devflow-0.1.4-win-x64.zip) |
 | 0.1.3 | 2026-07-06 | `fa797242f62952fe…` | [zip](https://github.com/MiladClark/devflow-app-updates/releases/download/v0.1.3/devflow-0.1.3-win-x64.zip) |
 | 0.1.2 | 2026-07-06 | `4965e96f881dc9c6…` | [zip](https://github.com/MiladClark/devflow-app-updates/releases/download/v0.1.2/devflow-0.1.2-win-x64.zip) |
 | 0.1.1 | 2026-07-06 | `508276f410638321…` | [zip](https://github.com/MiladClark/devflow-app-updates/releases/download/v0.1.1/devflow-0.1.1-win-x64.zip) |
