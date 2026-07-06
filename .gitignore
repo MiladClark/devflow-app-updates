@@ -1,0 +1,4 @@
+# Release artifacts — binaries live on GitHub Releases, not in git
+.staging/
+*.zip
+manifest.json
