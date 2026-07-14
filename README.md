@@ -22,7 +22,7 @@ DevFlow helps you manage day-to-day local development without juggling many term
 |---|---|
 | OS | Windows (x64) |
 | App type | Electron desktop (portable + Setup installer) |
-| Current version | **0.1.9** |
+| Current version | **0.1.10** |
 | Theme | Clark Floor Light (Poppins) |
 
 ## Downloads
@@ -32,7 +32,7 @@ DevFlow helps you manage day-to-day local development without juggling many term
 | `DevFlowManager-Setup.exe` | First install (Inno Setup wizard) |
 | `devflow-*-win-x64.zip` | Portable / OTA update package |
 
-Latest release: [v0.1.9](https://github.com/MiladClark/devflow-app-updates/releases/tag/v0.1.9)
+Latest release: [v0.1.10](https://github.com/MiladClark/devflow-app-updates/releases/tag/v0.1.10)
 
 > Binaries live only on **GitHub Releases** — they are not committed into this git repo. The app asks DevTune for the latest version, then downloads the zip from the release URL registered there.
 
@@ -47,6 +47,7 @@ Latest release: [v0.1.9](https://github.com/MiladClark/devflow-app-updates/relea
 
 | Version | Date | SHA256 | Download |
 |---------|------|--------|----------|
+| 0.1.10 | 2026-07-14 | `8f693bb366f7bddb…` | [zip](https://github.com/MiladClark/devflow-app-updates/releases/download/v0.1.10/devflow-0.1.10-win-x64.zip) |
 | 0.1.4 | 2026-07-06 | `bda9754075c68c20…` | [zip](https://github.com/MiladClark/devflow-app-updates/releases/download/v0.1.4/devflow-0.1.4-win-x64.zip) |
 | 0.1.3 | 2026-07-06 | `fa797242f62952fe…` | [zip](https://github.com/MiladClark/devflow-app-updates/releases/download/v0.1.3/devflow-0.1.3-win-x64.zip) |
 | 0.1.2 | 2026-07-06 | `4965e96f881dc9c6…` | [zip](https://github.com/MiladClark/devflow-app-updates/releases/download/v0.1.2/devflow-0.1.2-win-x64.zip) |
